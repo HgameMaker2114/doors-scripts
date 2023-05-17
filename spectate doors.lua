@@ -1,4 +1,4 @@
--- press r
+-- press j
 -- Variables
 local person = -- put the players username here
 local player = game.Players.LocalPlayer
